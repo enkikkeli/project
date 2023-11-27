@@ -1,0 +1,59 @@
+Lappeenrannan teknillinen yliopisto
+
+Software Development Skills Front-End, Online course
+
+Onni Riikonen, 390147
+
+2.11.2023
+Introduction to workflow and sass
+I watched the first video lecture and set up the environment. I had to install node.js, but had VScode  and git already installed. 
+Then I installed the live server extension. Then I started doing the first part of the program. 
+I had never done anything like this so all was new. Only issue here was that I first installed the node-sass incorrectly, but that was quick fix.
+
+3.11.2023
+Homepage and Core Sass/CSS
+Watched the second video lecture and made the homepage. Mostly by following the video I kept up pretty well. 
+Installing the icons was tricky, because the video is old, there is newer version out. 
+I had to google a lot of instructions, but got it eventually. 
+I also found out how the text is formatted in the screen by using scss, (color, font, margin, etc.). 
+Also added the images, but I thought that was easy, since I have used images in older projects.
+
+5.11.2023
+Rotating menu button
+I Watched the third video lecture on the rotating menu button. 
+I thought this was very complex, and I had to stop the video much more than before. 
+Again, the video is very well made, so I kept up nicely. I thought the way the X is made was fun.
+
+9.11.2023
+Menu overlay and responsiveness
+I dove into the fourth video lecture today. 
+I implemented the menu overlay, so site works on smaller screens also. 
+Sass mixins were a new difficult thing, but the tutorial was good. 
+I think I have a good understanding on some of the scss stuff now. 
+There is a clear pattern on how to add something new to the webpage, so adding the responsiveness was new.
+
+10.11.2023
+Page with CSS grid
+I watched the fifth video. Here I made a new html page. 
+This was very similar to the first lesson, where I made the homepage. 
+I started by making it possible to change the color to light color, and it still being readable. 
+I thought this was kind of pointless, but also it probably was there to show how it can be done. 
+This time I had an issue that took a long time to figure out. 
+For some reason the grid modules were set weirdly in that the first one was way too big compared to the other two.
+I experimented a lot and finally got values to make it look good.
+
+15.11.2023
+Work and contact pages
+I watched the final video on making the website. 
+This was probably the easiest lesson, since it was more of the same that I had done before. 
+However, my css file wasn’t updating for some reason, so it took some time to figure out why that was happening.
+
+27.11.2023
+Website deployment
+This was very difficult for me, and I’m glad I had the Linux course going at the same time, so I could learn about the ssh keys. 
+When pushing my code to git it gave the (publickey) issue, and the video didn’t explain that. 
+However I finished my Linux project, and the ssh keys were explained well there, so I finally figured out the issue and got my website deployed.
+
+
+
+
