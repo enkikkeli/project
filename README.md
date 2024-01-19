@@ -4,7 +4,7 @@ This repository contains the source code for a portfolio website built with HTML
 
 Instructions to run the website:
 
-Search for https://enkikkeli.github.io/project
+Search for https://onniriikonen.github.io/project
 There you can navigate the website
 
 
